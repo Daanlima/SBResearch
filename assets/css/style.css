@@ -3541,23 +3541,23 @@ hr {
 }
 
 .background-safeinvestor{
-    background-image: url(../img/gallery/safeinvestor.jpg);
+    background-image: url(../img/gallery/blue_safeinvestor.png);
 }
 
 .background-highincome{
-    background-image: url(../img/gallery/highincome.jpg);
+    background-image: url(../img/gallery/blue_highincome.png);
 }
 
 .background-valueinvestor{
-    background-image: url(../img/gallery/valueinvestor.jpg);
+    background-image: url(../img/gallery/blue_valueinvestor.png);
 }
 
 .background-growthinvestor{
-    background-image: url(../img/gallery/growthinvestor.jpg);
+    background-image: url(../img/gallery/blue_growthinvestor.png);
 }
 
 .background-tradeinvestor{
-    background-image: url(../img/gallery/sbinvestor.jpg);
+    background-image: url(../img/gallery/blue_sbinvestor.png);
 }
 
 .all-starups-area .starups-img {
