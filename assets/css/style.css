@@ -3556,6 +3556,12 @@ hr {
     }
 }
 
+@media (max-width: 938px) {
+    .all-starups-area .starups-img-services {
+        display: none !important;
+    }
+}
+
 .background-safeinvestor{
     background-image: url(../img/gallery/blue_safeinvestor.png);
 }
