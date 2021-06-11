@@ -1,3 +1,19 @@
+:root{
+    scrollbar-color: rgb(210,210,210) rgb(46,54,69) !important;
+    scrollbar-width: thin !important;
+}
+
+.scroller::-webkit-scrollbar-track  {
+    background-color: rgb(210,210,210);
+}
+
+.scroller::-webkit-scrollbar-thumb {
+    height: 30px;
+    background-color: rgb(46,54,69);
+}
+
+
+
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans:200,300,400,500,600,700|Muli:200,300,400,500,600,700,800,900&display=swap");
 .white-bg {
     background: #ffffff;
