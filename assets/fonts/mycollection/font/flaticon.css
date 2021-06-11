@@ -1,10 +1,10 @@
 @font-face {
     font-family: "flaticon";
-    src: url("./flaticon.ttf?db573382d2bf3cb30e30054ffd17b62b") format("truetype"),
-url("./flaticon.woff?db573382d2bf3cb30e30054ffd17b62b") format("woff"),
-url("./flaticon.woff2?db573382d2bf3cb30e30054ffd17b62b") format("woff2"),
-url("./flaticon.eot?db573382d2bf3cb30e30054ffd17b62b#iefix") format("embedded-opentype"),
-url("./flaticon.svg?db573382d2bf3cb30e30054ffd17b62b#flaticon") format("svg");
+    src: url("./flaticon.ttf?83dfe16be88bb4e4a74c372cd06a541a") format("truetype"),
+url("./flaticon.woff?83dfe16be88bb4e4a74c372cd06a541a") format("woff"),
+url("./flaticon.woff2?83dfe16be88bb4e4a74c372cd06a541a") format("woff2"),
+url("./flaticon.eot?83dfe16be88bb4e4a74c372cd06a541a#iefix") format("embedded-opentype"),
+url("./flaticon.svg?83dfe16be88bb4e4a74c372cd06a541a#flaticon") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
@@ -26,4 +26,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 }
 .flaticon-idea-bulb:before {
     content: "\f103";
+}
+.flaticon-arrow-chart:before {
+    content: "\f104";
 }
